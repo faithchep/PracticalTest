@@ -1,5 +1,4 @@
-/home/faith/git_environment/PracticalTest/src/main/java/com/faith/restapi/service/UserService.java
-/home/faith/git_environment/PracticalTest/src/main/java/com/faith/restapi/RestapiApplication.java
-/home/faith/git_environment/PracticalTest/src/main/java/com/faith/restapi/repository/UserRepository.java
-/home/faith/git_environment/PracticalTest/src/main/java/com/faith/restapi/model/User.java
-/home/faith/git_environment/PracticalTest/src/main/java/com/faith/restapi/controllers/UserController.java
+/home/faith/git_environment/practicaltest/src/main/java/com/example/practicaltest/PracticaltestApplication.java
+/home/faith/git_environment/practicaltest/src/main/java/com/example/practicaltest/model/Client.java
+/home/faith/git_environment/practicaltest/src/main/java/com/example/practicaltest/repository/ClientRepository.java
+/home/faith/git_environment/practicaltest/src/main/java/com/example/practicaltest/controllers/ClientsController.java

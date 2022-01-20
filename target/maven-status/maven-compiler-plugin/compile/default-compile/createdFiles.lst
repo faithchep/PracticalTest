@@ -1,0 +1,4 @@
+com/example/practicaltest/model/Client.class
+com/example/practicaltest/repository/ClientRepository.class
+com/example/practicaltest/PracticaltestApplication.class
+com/example/practicaltest/controllers/ClientsController.class

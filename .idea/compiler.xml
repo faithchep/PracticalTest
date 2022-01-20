@@ -6,16 +6,16 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="PRACTICAL-TEST" />
+        <module name="PracticalTest" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="PRACTICAL-TEST" target="1.8" />
+      <module name="PracticalTest" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
-      <module name="PRACTICAL-TEST" options="-parameters" />
+      <module name="PracticalTest" options="-parameters" />
     </option>
   </component>
 </project>
